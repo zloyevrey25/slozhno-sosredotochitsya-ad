@@ -5,3 +5,5 @@
 Репозиторий: https://github.com/zloyevrey25/slozhno-sosredotochitsya-ad
 
 Страница собрана на HTML и CSS. Переключатель темы работает на JavaScript и сохраняет выбор в `localStorage`.
+
+Для локального просмотра запустите в корне проекта `python3 -m http.server 8002` и откройте `http://127.0.0.1:8002/`.
